@@ -76,6 +76,7 @@ version = "*"
 [[customizations.user]]
 name = "redhat"
 description = "Default User"
+# Password: redhat
 password = "$6$yW34vZfc4uBobPza$bYVk5cZ5JM7CLBI1qOzdrexKRFn/zPgcnlbBqIgnb1sDFVOGzI/R9Tm/TqyJw5DnKSewK8D49185l3rJkBiHS1"
 groups = ["wheel"]
 
